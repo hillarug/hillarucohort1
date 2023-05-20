@@ -2,5 +2,13 @@ This is my first git class
 
 I love devops
 
+<<<<<<< HEAD
 This is for master branch
+=======
+This is for ugwu branch
+
+
+
+
+>>>>>>> prod
 
